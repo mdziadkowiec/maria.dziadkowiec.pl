@@ -1,0 +1,12 @@
+# Site settings
+title: Pokoje Gościnne u Marii Dziadkowiec - Bukowina Tatrzańska
+email: maria@dziadkowiec.pl
+description: ""
+baseurl: ""
+url: "http://maria.dziadkowiec.pl"
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
