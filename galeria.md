@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: galeria
 title: Galeria
 permalink: /galeria/
 ---
-
-## Zdjęcia pokoi
