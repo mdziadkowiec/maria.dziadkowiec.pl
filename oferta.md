@@ -1,9 +1,6 @@
 ---
-layout: page
+layout: oferta
 title: Oferta
 permalink: /oferta/
 ---
 
-Nasza Oferta
-
- Mroźną zimą zapraszamy na Kulig!
