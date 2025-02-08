@@ -34,6 +34,10 @@ kbd.iban {
 	overflow: hidden;
 }
 
+#main {
+	max-width: 100%;
+}
+
 #main-menu ul {
 	margin: 0;
 	padding: 0 0 0 0;
